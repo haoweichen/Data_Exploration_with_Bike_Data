@@ -1,4 +1,4 @@
-# Data Exploration with Bike Data Slide
+# Data Exploration with Ford GoBike Data 
 
 ## Project Table of Contents:
 * Introduction
@@ -9,7 +9,8 @@
 * Summary
 * Sources
 
-
+Data source: 
+https://www.fordgobike.com/system-data 
 The data consisted of bike station and user information of about 160,000 records. The features includes as below, 
 * ride_id
 * rideable_type
