@@ -1,4 +1,4 @@
-# Data_Exploration_with_Bike_Data_Slide
+# Data Exploration with Bike Data Slide
 
 ## Project Table of Contents:
 * Introduction
