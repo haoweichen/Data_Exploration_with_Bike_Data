@@ -9,8 +9,8 @@
 * Summary
 * Sources
 
-Data source: 
-https://www.fordgobike.com/system-data 
+Data source: </n>
+https://www.fordgobike.com/system-data </n>
 The data consisted of bike station and user information of about 160,000 records. The features includes as below, 
 * ride_id
 * rideable_type
