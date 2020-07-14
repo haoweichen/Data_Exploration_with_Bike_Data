@@ -11,7 +11,7 @@
 
 Data source: https://www.fordgobike.com/system-data <br>
 The data consisted of bike station and user information of about 160,000 records. The features includes as below, 
-* ride_
+* ride_id
 * rideable_type
 * started_at
 * ended_at
