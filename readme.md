@@ -1,7 +1,7 @@
 # Data Exploration with Ford GoBike Data
 
 ## Project Table of Contents:
-* Int
+* Introduction
 * Preliminary Wrangling
 * Univariate Exploration
 * Bivariate Exploration
