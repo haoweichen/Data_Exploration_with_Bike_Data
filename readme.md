@@ -1,4 +1,4 @@
-# Data Exploration with Ford GoBike Datas
+# Data Exploration with Ford GoBike Data
 
 ## Project Table of Contents:
 * Introduction
